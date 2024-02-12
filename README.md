@@ -13,6 +13,7 @@ Davide Cerci <br>
 Giovanni Montaruli 
 
 Example usage:
-<img width="1215" alt="image" src="https://github.com/Newtagnewme/Fomo-ML-project/assets/79207487/0914eac5-4343-4945-a16e-732d35f56cc2">
+<img width="204" alt="image" src="https://github.com/Newtagnewme/Fomo-ML-project/assets/79207487/633eded5-8869-4778-86ff-8d884a558f58">
+
 Labelled as: 
 <img width="1215" alt="image" src="https://github.com/Newtagnewme/Fomo-ML-project/assets/79207487/1b5a99b8-b539-41ab-9ed0-0c5aba1e7f99">
