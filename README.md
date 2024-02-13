@@ -2,7 +2,6 @@
 
 Note code is not the cleanest as it can be but who cares :D
 
-Read doc.pdf for project specifics 
 
 
 Sapienza Università di Roma <br>
