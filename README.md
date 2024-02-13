@@ -1,4 +1,4 @@
-**AI and Machine Learning Final project**
+**Deep Learning Final project**
 
 Note code is not the cleanest as it can be but who cares :D
 
@@ -9,6 +9,9 @@ Sapienza Università di Roma <br>
 12/02/2024
 
 Ganni Galea Curmi <br>
+
+in collaboration with 
+
 Davide Cerci <br>
 Giovanni Montaruli 
 
